@@ -113,7 +113,7 @@ It is the harmonic mean of precision and recall.
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;F1-Score={2*(Precision*Recall)/(Precision+Recall)}"  />
 
-The table below compares the F1-score, AUC and the IoU of all the stages.
+The table below compares the F1-score, AUC and the IoU of all the stages..
 
 Stage|F1-Score | AUC | IoU | Dice coef.|
 ---|--- | --- | --- | --- |
